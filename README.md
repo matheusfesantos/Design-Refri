@@ -1,3 +1,7 @@
+Claro! Aqui está o seu README atualizado com as imagens do projeto exibidas diretamente:
+
+---
+
 # Carrossel de Imagens de Refrigerantes
 
 Este projeto é um **carrossel de imagens** que exibe diferentes sabores de refrigerantes, desenvolvido com **JavaScript**, **HTML** e **CSS**.
@@ -46,14 +50,11 @@ Você pode conferir o carrossel em funcionamento no vídeo disponível [neste li
 
 ## 📸 Imagens do Projeto
 
-1. **Interface Inicial**  
-   ![Interface Inicial](https://drive.google.com/uc?export=view&id=1vRNnV4ydQsRk1bNw3IWxYX6RGqvJQZp9)
+(https://drive.google.com/uc?export=view&id=1vRNnV4ydQsRk1bNw3IWxYX6RGqvJQZp9)
 
-2. **Carrossel em Ação**  
-   ![Carrossel em Ação](https://drive.google.com/uc?export=view&id=1XkyuW8T3hrxwz2IS4xnl8G6S4-0kEWLc)
+(https://drive.google.com/uc?export=view&id=1XkyuW8T3hrxwz2IS4xnl8G6S4-0kEWLc)
 
-3. **Detalhes do Design**  
-   ![Detalhes do Design](https://drive.google.com/uc?export=view&id=1BEktQtE2vg1gzSByoIlTy7LvdTGxo6mC)
+(https://drive.google.com/uc?export=view&id=1BEktQtE2vg1gzSByoIlTy7LvdTGxo6mC)
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -65,7 +66,7 @@ Você pode conferir o carrossel em funcionamento no vídeo disponível [neste li
 
 1. Clone este repositório em sua máquina:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/matheusfesantos/nome-do-repositorio.git
    ```
 
 2. Abra o arquivo `index.html` em um navegador.
@@ -82,3 +83,7 @@ Você pode conferir o carrossel em funcionamento no vídeo disponível [neste li
 3. **JavaScript**:
    - Controla o tempo de exibição de cada imagem no carrossel.
    - Implementa a funcionalidade de rotação automática.
+
+---
+
+Agora o README está com as imagens diretamente embutidas no documento. Se precisar de mais algum ajuste, me avise! 😊
