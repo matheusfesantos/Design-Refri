@@ -1,7 +1,3 @@
-Entendi! Aqui está o seu README atualizado com as imagens exibidas diretamente, sem mostrar os links:
-
----
-
 # Carrossel de Imagens de Refrigerantes
 
 Este projeto é um **carrossel de imagens** que exibe diferentes sabores de refrigerantes, desenvolvido com **JavaScript**, **HTML** e **CSS**.
@@ -50,11 +46,11 @@ Você pode conferir o carrossel em funcionamento no vídeo disponível [neste li
 
 ## 📸 Imagens do Projeto
 
-1. ![Interface Inicial](https://drive.google.com/uc?export=view&id=1vRNnV4ydQsRk1bNw3IWxYX6RGqvJQZp9)
+1. ![Imagem1](https://drive.google.com/uc?export=view&id=1vRNnV4ydQsRk1bNw3IWxYX6RGqvJQZp9)
 
-2. ![Carrossel em Ação](https://drive.google.com/uc?export=view&id=1XkyuW8T3hrxwz2IS4xnl8G6S4-0kEWLc)
+2. ![Imagem2](https://drive.google.com/uc?export=view&id=1XkyuW8T3hrxwz2IS4xnl8G6S4-0kEWLc)
 
-3. ![Detalhes do Design](https://drive.google.com/uc?export=view&id=1BEktQtE2vg1gzSByoIlTy7LvdTGxo6mC)
+3. ![Imagem3](https://drive.google.com/uc?export=view&id=1BEktQtE2vg1gzSByoIlTy7LvdTGxo6mC)
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -83,7 +79,3 @@ Você pode conferir o carrossel em funcionamento no vídeo disponível [neste li
 3. **JavaScript**:
    - Controla o tempo de exibição de cada imagem no carrossel.
    - Implementa a funcionalidade de rotação automática.
-
----
-
-Agora as imagens serão exibidas diretamente no seu README, sem mostrar os links. Se precisar de mais algum ajuste, me avise! 😊
