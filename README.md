@@ -44,6 +44,17 @@ index.html
 
 Você pode conferir o carrossel em funcionamento no vídeo disponível [neste link](https://drive.google.com/file/d/1yvlDUIKXYRoHYyryhZGI50aLe3cESvIn/view?usp=sharing).
 
+## 📸 Imagens do Projeto
+
+1. **Interface Inicial**  
+   ![Interface Inicial](https://drive.google.com/uc?export=view&id=1vRNnV4ydQsRk1bNw3IWxYX6RGqvJQZp9)
+
+2. **Carrossel em Ação**  
+   ![Carrossel em Ação](https://drive.google.com/uc?export=view&id=1XkyuW8T3hrxwz2IS4xnl8G6S4-0kEWLc)
+
+3. **Detalhes do Design**  
+   ![Detalhes do Design](https://drive.google.com/uc?export=view&id=1BEktQtE2vg1gzSByoIlTy7LvdTGxo6mC)
+
 ## 🚀 Tecnologias Utilizadas
 
 - **HTML**: Para estruturar o conteúdo da página.
