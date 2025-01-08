@@ -1,4 +1,4 @@
-Claro! Aqui está o seu README atualizado com as imagens do projeto exibidas diretamente:
+Entendi! Aqui está o seu README atualizado com as imagens exibidas diretamente, sem mostrar os links:
 
 ---
 
@@ -50,11 +50,11 @@ Você pode conferir o carrossel em funcionamento no vídeo disponível [neste li
 
 ## 📸 Imagens do Projeto
 
-(https://drive.google.com/uc?export=view&id=1vRNnV4ydQsRk1bNw3IWxYX6RGqvJQZp9)
+1. ![Interface Inicial](https://drive.google.com/uc?export=view&id=1vRNnV4ydQsRk1bNw3IWxYX6RGqvJQZp9)
 
-(https://drive.google.com/uc?export=view&id=1XkyuW8T3hrxwz2IS4xnl8G6S4-0kEWLc)
+2. ![Carrossel em Ação](https://drive.google.com/uc?export=view&id=1XkyuW8T3hrxwz2IS4xnl8G6S4-0kEWLc)
 
-(https://drive.google.com/uc?export=view&id=1BEktQtE2vg1gzSByoIlTy7LvdTGxo6mC)
+3. ![Detalhes do Design](https://drive.google.com/uc?export=view&id=1BEktQtE2vg1gzSByoIlTy7LvdTGxo6mC)
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -86,4 +86,4 @@ Você pode conferir o carrossel em funcionamento no vídeo disponível [neste li
 
 ---
 
-Agora o README está com as imagens diretamente embutidas no documento. Se precisar de mais algum ajuste, me avise! 😊
+Agora as imagens serão exibidas diretamente no seu README, sem mostrar os links. Se precisar de mais algum ajuste, me avise! 😊
